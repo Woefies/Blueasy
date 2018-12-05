@@ -1,3 +1,4 @@
+
 html {
 
     color: #222;
@@ -230,7 +231,7 @@ mark{
     display: flex;
 }
 
-.items h1{
+.items h2{
 
     font-size: 25px;
 }
@@ -241,7 +242,7 @@ mark{
     flex-direction: column;
 }
 
-.column h1 {
+.column h2 {
     font-size: 
 }
 
@@ -604,7 +605,7 @@ footer .copyright{
         width: 400px;
     }
 
-    .column h1 {
+    .column h2 {
         font-size: 20px;
     }
 }
@@ -635,7 +636,7 @@ footer .copyright{
 
 @media screen and (max-width: 426px) {
     
-    .column h1 {
+    .column h2 {
         font-size: 16px;
     }
 }
